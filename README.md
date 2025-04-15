@@ -2,7 +2,7 @@
 - 👀 I’m interested in PROBLEM SOLVING & TECHNICAL FIELDS
 - 🌱 I’m currently pursuing 2nd year BTECH[cse]
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via https://www.linkedin.com/in/pardhasaradhi-reddy-a92a40315/
+- 📫 How to reach me via  
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: ....
 
