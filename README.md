@@ -1,4 +1,3 @@
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/55dd29ae-6d92-4a68-be23-367ac89ccbeb" />## 👋 Hey there, I’m Pardhasaradhi Reddy (a.k.a Pardhu)
 
 ### 📬 Reach Me:
 - 💌 Email: [ devpersonal.testing@gmail.com ]
