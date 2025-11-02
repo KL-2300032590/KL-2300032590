@@ -1,4 +1,3 @@
+### 🚀 My GitHub Stats
 
-- 🧑🏼‍💻LeetCode:[ https://leetcode.com/u/pardhasaradhireddy ]
-- 🧑‍💼 LinkedIn: [ https://www.linkedin.com/in/pardhasaradhireddy2005/ ]
-- 🐙 GitHub: [github.com/KL-2300032590](https://github.com/KL-2300032590)
+![Pardhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardhu-dev&show_icons=true&theme=radical)
